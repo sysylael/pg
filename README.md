@@ -7,7 +7,7 @@
 [udemy](https://www.udemy.com/course/teach-your-kids-to-code/)
 
 
-[python CSP udemy](https://www.udemy.com/course/teach-your-kids-to-code/](https://www.udemy.com/course/100-days-of-code/)
+[python CSP udemy](https://www.udemy.com/course/100-days-of-code/)
 
 
 ## python pygame practice
