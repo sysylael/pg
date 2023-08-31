@@ -21,7 +21,7 @@ clock = pygame.time.Clock()
 
 # User game initialization: Background, game images, coordinates, speed, font, etc.
 # file_path = "Downloads/"
-file_path = "/Users/plamp/Downloads/"
+file_path = "/Users/dragon/Downloads/"
 
 background = pygame.image.load(os.path.join(file_path, "background.png"))
 
